@@ -48,8 +48,7 @@ Project includes:
 
 #### Housing Price Prediction Visualization
 ![Prediction Plot](images/prediction_vs_actual.png)
-
-Repository  
+ 
 Repository  
 [melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
 
@@ -58,8 +57,7 @@ Repository
 ### Distributed Text Analytics with Hadoop MapReduce
 
 A distributed pipeline that analyzes Shakespeare plays using **Hadoop MapReduce** and **TF-IDF scoring** to identify important terms across a corpus.
-
-Repository  
+  
 Repository  
 [shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
 
