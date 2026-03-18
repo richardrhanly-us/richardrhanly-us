@@ -29,6 +29,30 @@ Digital Services Specialist and Software Development student focused on **data a
 
 ## Featured Projects
 
+### NBA Player Performance Prediction (Machine Learning + Web App)
+
+End-to-end machine learning project that predicts NBA player scoring and evaluates betting props using real-time data.
+
+This project combines:
+- Feature engineering from player game logs
+- Regression modeling for stat prediction
+- Probability modeling for betting analysis
+- A live interactive web application
+
+### Project Highlights
+
+#### NBA Prop Prediction App
+<p align="center">
+  <img src="images/web_app_pic.JPG" width="900"/>
+</p>
+
+Repository  
+[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
+
+Live App  
+https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
+
+
 ### Melbourne Housing Price Prediction (Machine Learning)
 
 End-to-end machine learning project analyzing housing market data and predicting property prices using **Random Forest regression**.
