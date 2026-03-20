@@ -67,7 +67,7 @@ This project combines:
 
 #### Leaderboard & Player Dashboard
 <p align="center">
-  <img src="images/poker-leaderboard.png" width="900"/>
+  <img src="images/leaderboard.png" width="900"/>
 </p>
 
 - Dynamic leaderboard with filtering (minimum games played)
@@ -80,7 +80,7 @@ This project combines:
 
 #### Sessions & Data Pipeline
 <p align="center">
-  <img src="images/poker-session.png" width="900"/>
+  <img src="images/session.png" width="900"/>
 </p>
 
 - Structured session entry workflow
@@ -92,7 +92,7 @@ Repository
 [poker-night-tracker](https://github.com/YOUR_USERNAME/poker-night-tracker)
 
 Live App  
-https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec
+[https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec](https://tinyurl.com/78666poker)
 
 ### Melbourne Housing Price Prediction (Machine Learning)
 
