@@ -87,15 +87,6 @@ Repository
 
 ---
 
-## Currently Learning
-
-- Machine Learning
-- Distributed Data Systems
-- Data Engineering
-- Scalable Data Processing
-
----
-
 ## Contact
 
 Email  
