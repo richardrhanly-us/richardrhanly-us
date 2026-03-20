@@ -70,6 +70,48 @@ Project includes:
 
 ### Project Highlights
 
+### Poker Night Tracker (Full Stack Web App)
+
+A full-stack poker session tracking system built using Google Apps Script and Google Sheets, featuring real-time data processing, player analytics, and a custom mobile-friendly UI.
+
+This project combines:
+- Structured data modeling using Google Sheets as a database
+- Backend API development with Google Apps Script
+- Interactive frontend UI with JavaScript, HTML, and CSS
+- Data validation and automated session processing
+- Player analytics with charts, aggregates, and filtering
+
+### Project Highlights
+
+#### Leaderboard & Player Dashboard
+<p align="center">
+  <img src="images/poker-leaderboard.png" width="900"/>
+</p>
+
+- Dynamic leaderboard with filtering (minimum games played)
+- Player performance dashboard with:
+  - Running profit visualization
+  - Averages and totals
+  - Year-in-review breakdowns
+- Medal system for top 3 players
+- Clickable leaderboard → player profiles
+
+#### Sessions & Data Pipeline
+<p align="center">
+  <img src="images/poker-session.png" width="900"/>
+</p>
+
+- Structured session entry workflow
+- Automated data validation and normalization
+- Migration from unstructured sheets → relational format
+- Google Drive integration for scanned game sheets
+
+Repository  
+[poker-night-tracker](https://github.com/YOUR_USERNAME/poker-night-tracker)
+
+Live App  
+https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec
+
 #### Housing Price Prediction Visualization
 ![Prediction Plot](images/prediction_vs_actual.png)
  
