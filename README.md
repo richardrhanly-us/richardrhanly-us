@@ -50,7 +50,7 @@ Key features:
 - Automated validation to ensure financial accuracy across sessions
 
 <p align="center">
-  <img src="images/poker-leaderboard.png" width="850"/>
+  <img src="images/leaderboard.png" width="850"/>
 </p>
 
 Repository  
