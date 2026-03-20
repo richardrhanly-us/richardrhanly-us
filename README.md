@@ -1,6 +1,6 @@
 # Hi, I'm Richard Hanly
 
-Digital Services Specialist and Software Development student focused on **data analytics, machine learning, distributed systems, and backend development.**
+Digital Services Specialist and Software Development student focused on data analytics, machine learning, distributed systems, and backend development.
 
 ---
 
@@ -55,7 +55,7 @@ https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
 
 ### Melbourne Housing Price Prediction (Machine Learning)
 
-End-to-end machine learning project analyzing housing market data and predicting property prices using **Random Forest regression**.
+End-to-end machine learning project analyzing housing market data and predicting property prices using Random Forest regression.
 
 Project includes:
 
@@ -80,7 +80,7 @@ Repository
 
 ### Distributed Text Analytics with Hadoop MapReduce
 
-A distributed pipeline that analyzes Shakespeare plays using **Hadoop MapReduce** and **TF-IDF scoring** to identify important terms across a corpus.
+A distributed pipeline that analyzes Shakespeare plays using Hadoop MapReduce and **TF-IDF scoring** to identify important terms across a corpus.
   
 Repository  
 [shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
