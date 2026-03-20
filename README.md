@@ -43,7 +43,7 @@ This project combines:
 
 #### NBA Prop Prediction App
 <p align="center">
-  <img src="images/web_app_pic.JPG" width="900"/>
+  <img src="images/nbaapp.JPG" width="900"/>
 </p>
 
 Repository  
