@@ -1,9 +1,9 @@
 # Hi, I'm Richard Hanly
 
-Digital Services Specialist and Software Development student focused on data analytics, machine learning, distributed systems, and backend development.
+Digital Services Specialist and Software Development student building full-stack applications, data pipelines, and machine learning systems with real-world data.
 
-- [nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
 - [poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
+- [nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
 - [melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
 - [shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
 
@@ -34,70 +34,24 @@ Digital Services Specialist and Software Development student focused on data ana
 
 ## Featured Projects
 
-### NBA Player Performance Prediction (Machine Learning + Web App)
-
-End-to-end machine learning project that predicts NBA player scoring and evaluates betting props using real-time data.
-
-This project combines:
-- Feature engineering from player game logs
-- Regression modeling for stat prediction
-- Probability modeling for betting analysis
-- A live interactive web application
-
-### Project Highlights
-
-#### NBA Prop Prediction App
-<p align="center">
-  <img src="images/nbaapp.JPG" width="1000"/>
-</p>
-
-Repository  
-[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
-
-Live App  
-https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
-
----
-
 ### Poker Night Tracker (Full Stack Web App)
 
-A full-stack poker session tracking system built using Google Apps Script and Google Sheets, featuring real-time data processing, player analytics, and a custom mobile-friendly UI.
+Full-stack analytics application for tracking poker sessions, player performance, and long-term profitability using real-world data.
+
+Built with Google Apps Script, Google Sheets (as a relational data store), and a custom mobile-friendly frontend.
+
+Key features:
+- End-to-end data pipeline from raw session entry → normalized database tables
+- Dynamic leaderboard with filtering (minimum games threshold)
+- Player analytics dashboard with running profit visualization and trend charts
+- Year-over-year performance breakdowns
+- Clickable leaderboard → player drill-down navigation
+- Google Drive integration for scanned session records
+- Automated validation to ensure financial accuracy across sessions
 
 <p align="center">
-  <img src="images/player-view.png" width="1000"/>
+  <img src="images/poker-leaderboard.png" width="850"/>
 </p>
-
-This project combines:
-- Structured data modeling using Google Sheets as a database
-- Backend API development with Google Apps Script
-- Interactive frontend UI with JavaScript, HTML, and CSS
-- Data validation and automated session processing
-- Player analytics with charts, aggregates, and filtering
-
-### Project Highlights
-
-#### Leaderboard & Player Dashboard
-<p align="center">
-  <img src="images/leaderboard.png" width="1000"/>
-</p>
-
-- Dynamic leaderboard with filtering (minimum games played)
-- Player performance dashboard with:
-  - Running profit visualization
-  - Averages and totals
-  - Year-in-review breakdowns
-- Medal system for top 3 players
-- Clickable leaderboard → player profiles
-
-#### Sessions & Data Pipeline
-<p align="center">
-  <img src="images/session.png" width="1000"/>
-</p>
-
-- Structured session entry workflow
-- Automated data validation and normalization
-- Migration from unstructured sheets → relational format
-- Google Drive integration for scanned game sheets
 
 Repository  
 [poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
@@ -107,37 +61,68 @@ Live App
 
 ---
 
+### NBA Player Performance Prediction (Machine Learning + Web App)
+
+Machine learning system for predicting NBA player scoring and evaluating betting opportunities using real-time data.
+
+Key features:
+- Feature engineering from historical player game logs
+- Regression modeling for stat prediction
+- Probability modeling for over/under betting analysis
+- Interactive Streamlit web application
+- Real-time odds comparison against model projections
+
+<p align="center">
+  <img src="images/nbaapp.JPG" width="850"/>
+</p>
+
+Repository  
+https://github.com/richardrhanly-us/nba_player_performance_prediction
+
+Live App  
+https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
+
+Repository  
+[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
+
+Live App  
+https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
+
+---
+
+
 ### Melbourne Housing Price Prediction (Machine Learning)
 
-End-to-end machine learning project analyzing housing market data and predicting property prices using Random Forest regression.
+End-to-end regression modeling project analyzing housing data and predicting property prices.
 
-Project includes:
-
-- Data cleaning and preprocessing
+Key features:
+- Data cleaning and preprocessing pipeline
 - Exploratory data analysis and visualization
 - Feature engineering and encoding
-- Linear Regression baseline model
-- Random Forest regression model
-- Hyperparameter tuning
-- Model evaluation and comparison
+- Linear Regression baseline + Random Forest model
+- Hyperparameter tuning and model evaluation
 - Feature importance analysis
 
-### Project Highlights
+<p align="center">
+  <img src="images/prediction_vs_actual.png" width="750"/>
+</p>
 
-#### Housing Price Prediction Visualization
-![Prediction Plot](images/prediction_vs_actual.png)
- 
 Repository  
-[melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
+https://github.com/richardrhanly-us/melbourne-housing-price-prediction
 
 ---
 
 ### Distributed Text Analytics with Hadoop MapReduce
 
-A distributed pipeline that analyzes Shakespeare plays using Hadoop MapReduce and TF-IDF scoring to identify important terms across a corpus.
-  
+Distributed data processing pipeline analyzing Shakespeare texts using Hadoop MapReduce.
+
+Key features:
+- Parallel text processing across distributed nodes
+- TF-IDF implementation for term importance scoring
+- Custom MapReduce jobs for scalable data analysis
+
 Repository  
-[shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
+https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf
 
 ---
 
