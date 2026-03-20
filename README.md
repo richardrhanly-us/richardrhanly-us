@@ -52,24 +52,6 @@ Repository
 Live App  
 https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
 
-
-### Melbourne Housing Price Prediction (Machine Learning)
-
-End-to-end machine learning project analyzing housing market data and predicting property prices using Random Forest regression.
-
-Project includes:
-
-- Data cleaning and preprocessing
-- Exploratory data analysis and visualization
-- Feature engineering and encoding
-- Linear Regression baseline model
-- Random Forest regression model
-- Hyperparameter tuning
-- Model evaluation and comparison
-- Feature importance analysis
-
-### Project Highlights
-
 ### Poker Night Tracker (Full Stack Web App)
 
 A full-stack poker session tracking system built using Google Apps Script and Google Sheets, featuring real-time data processing, player analytics, and a custom mobile-friendly UI.
@@ -111,6 +93,23 @@ Repository
 
 Live App  
 https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec
+
+### Melbourne Housing Price Prediction (Machine Learning)
+
+End-to-end machine learning project analyzing housing market data and predicting property prices using Random Forest regression.
+
+Project includes:
+
+- Data cleaning and preprocessing
+- Exploratory data analysis and visualization
+- Feature engineering and encoding
+- Linear Regression baseline model
+- Random Forest regression model
+- Hyperparameter tuning
+- Model evaluation and comparison
+- Feature importance analysis
+
+### Project Highlights
 
 #### Housing Price Prediction Visualization
 ![Prediction Plot](images/prediction_vs_actual.png)
