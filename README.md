@@ -43,7 +43,7 @@ This project combines:
 
 #### NBA Prop Prediction App
 <p align="center">
-  <img src="images/nbaapp.JPG" width="900"/>
+  <img src="images/nbaapp.JPG" width="1000"/>
 </p>
 
 Repository  
@@ -57,7 +57,7 @@ https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
 A full-stack poker session tracking system built using Google Apps Script and Google Sheets, featuring real-time data processing, player analytics, and a custom mobile-friendly UI.
 
 <p align="center">
-  <img src="images/player-view.png" width="900"/>
+  <img src="images/player-view.png" width="1000"/>
 </p>
 
 This project combines:
@@ -71,7 +71,7 @@ This project combines:
 
 #### Leaderboard & Player Dashboard
 <p align="center">
-  <img src="images/leaderboard.png" width="900"/>
+  <img src="images/leaderboard.png" width="1000"/>
 </p>
 
 - Dynamic leaderboard with filtering (minimum games played)
@@ -84,7 +84,7 @@ This project combines:
 
 #### Sessions & Data Pipeline
 <p align="center">
-  <img src="images/session.png" width="900"/>
+  <img src="images/session.png" width="1000"/>
 </p>
 
 - Structured session entry workflow
