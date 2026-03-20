@@ -2,10 +2,7 @@
 
 Digital Services Specialist and Software Development student building full-stack applications, data pipelines, and machine learning systems with real-world data.
 
-- [poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
-- [nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
-- [melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
-- [shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
+
 
 ---
 
@@ -29,6 +26,12 @@ Digital Services Specialist and Software Development student building full-stack
 - Machine Learning
 - Feature Engineering
 - Exploratory Data Analysis
+
+## Project links
+- [poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
+- [nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
+- [melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
+- [shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
 
 ---
 
