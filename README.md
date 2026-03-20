@@ -56,6 +56,10 @@ https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
 
 A full-stack poker session tracking system built using Google Apps Script and Google Sheets, featuring real-time data processing, player analytics, and a custom mobile-friendly UI.
 
+<p align="center">
+  <img src="images/player-view.png" width="900"/>
+</p>
+
 This project combines:
 - Structured data modeling using Google Sheets as a database
 - Backend API development with Google Apps Script
@@ -89,7 +93,7 @@ This project combines:
 - Google Drive integration for scanned game sheets
 
 Repository  
-[poker-night-tracker](https://github.com/YOUR_USERNAME/poker-night-tracker)
+[poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
 
 Live App  
 [https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec](https://tinyurl.com/78666poker)
