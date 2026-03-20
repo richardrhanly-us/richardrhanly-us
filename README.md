@@ -2,10 +2,10 @@
 
 Digital Services Specialist and Software Development student focused on data analytics, machine learning, distributed systems, and backend development.
 
-[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)/n
-[poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)/n
-[melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)/n
-[shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf/n
+[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)\n
+[poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)\n
+[melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)\n
+[shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf\n
 ---
 
 ## Skills
