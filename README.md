@@ -2,6 +2,10 @@
 
 Digital Services Specialist and Software Development student focused on data analytics, machine learning, distributed systems, and backend development.
 
+[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
+[poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
+[melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
+[shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
 ---
 
 ## Skills
@@ -52,6 +56,8 @@ Repository
 Live App  
 https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
 
+---
+
 ### Poker Night Tracker (Full Stack Web App)
 
 A full-stack poker session tracking system built using Google Apps Script and Google Sheets, featuring real-time data processing, player analytics, and a custom mobile-friendly UI.
@@ -97,6 +103,8 @@ Repository
 
 Live App  
 [https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec](https://tinyurl.com/78666poker)
+
+---
 
 ### Melbourne Housing Price Prediction (Machine Learning)
 
