@@ -79,11 +79,6 @@ Key features:
   <img src="images/App2Capture.PNG" width="850"/>
 </p>
 
-Repository  
-https://github.com/richardrhanly-us/nba_player_performance_prediction
-
-Live App  
-https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
 
 Repository  
 [nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
