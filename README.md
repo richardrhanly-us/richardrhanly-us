@@ -10,8 +10,8 @@ Digital Services Specialist and Software Development student building full-stack
 
 **Languages**
 
-- Python
-- Java
+- Python  - HTML
+- Java    - C++
 - SQL
 
 **Technologies**
