@@ -60,7 +60,7 @@ Repository
 [poker-night-tracker](https://github.com/richardrhanly-us/poker-night-tracker)
 
 Live App  
-[https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec](https://tinyurl.com/78666poker)
+[Poker Night Tracker](https://tinyurl.com/78666poker)
 
 ---
 
