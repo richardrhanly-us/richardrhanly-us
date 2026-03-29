@@ -28,8 +28,8 @@ Digital Services Specialist and Software Development student building full-stack
 - Exploratory Data Analysis
 
 ## Project links
-- [poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
-- [nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
+- [poker-night-tracker](https://github.com/richardrhanly-us/poker-night-tracker)
+- [nba-player-performance-prediction](https://github.com/richardrhanly-us/NBA_Player_Performance_Data_Pipeline)
 - [melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
 - [shakespeare-hadoop-tfidf](https://github.com/richardrhanly-us/shakespeare-hadoop-tfidf)
 
@@ -57,7 +57,7 @@ Key features:
 </p>
 
 Repository  
-[poker-night-tracker](https://github.com/richardhanly-us/poker-night-tracker)
+[poker-night-tracker](https://github.com/richardrhanly-us/poker-night-tracker)
 
 Live App  
 [https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec](https://tinyurl.com/78666poker)
