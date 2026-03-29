@@ -76,7 +76,7 @@ Key features:
 - Real-time odds comparison against model projections
 
 <p align="center">
-  <img src="images/nbaapp.JPG" width="850"/>
+  <img src="images/appcapture.PNG" width="850"/>
 </p>
 
 Repository  
