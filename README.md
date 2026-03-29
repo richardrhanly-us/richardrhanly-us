@@ -64,7 +64,7 @@ Live App
 
 ---
 
-### NBA Player Performance Prediction (Machine Learning + Web App)
+### NBA Player Performance Prediction Pipeline(Machine Learning + Web App)
 
 Machine learning system for predicting NBA player scoring and evaluating betting opportunities using real-time data.
 
@@ -76,7 +76,7 @@ Key features:
 - Real-time odds comparison against model projections
 
 <p align="center">
-  <img src="images/appcapture.PNG" width="850"/>
+  <img src="images/App2Capture.PNG" width="850"/>
 </p>
 
 Repository  
