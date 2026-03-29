@@ -53,7 +53,7 @@ Key features:
 - Automated validation to ensure financial accuracy across sessions
 
 <p align="center">
-  <img src="images/leaderboard.png" width="850"/>
+  <img src="images/leaderboard.png" width="1000"/>
 </p>
 
 Repository  
@@ -76,7 +76,7 @@ Key features:
 - Real-time odds comparison against model projections
 
 <p align="center">
-  <img src="images/App2Capture.PNG" width="850"/>
+  <img src="images/App2Capture.PNG" width="1000"/>
 </p>
 
 
@@ -102,7 +102,7 @@ Key features:
 - Feature importance analysis
 
 <p align="center">
-  <img src="images/prediction_vs_actual.png" width="750"/>
+  <img src="images/prediction_vs_actual.png" width="1000"/>
 </p>
 
 Repository  
