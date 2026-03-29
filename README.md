@@ -10,10 +10,12 @@ Digital Services Specialist and Software Development student building full-stack
 
 **Languages**
 
-- Python      - HTML
-- Java        - C++
+- Python      
+- Java        
 - SQL
-
+- HTML
+- C++
+  
 **Technologies**
 
 - Hadoop / MapReduce
