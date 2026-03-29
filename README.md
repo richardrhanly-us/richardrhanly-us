@@ -81,7 +81,7 @@ Key features:
 
 
 Repository  
-[nba-player-performance-prediction](https://github.com/richardrhanly-us/nba_player_performance_prediction)
+[nba-player-performance-prediction](https://github.com/richardrhanly-us/NBA_Player_Performance_Data_Pipeline)
 
 Live App  
 https://nbaplayerperformanceprediction-7ajdpm4cmafadrmuczbvyf.streamlit.app/
