@@ -30,6 +30,7 @@ Digital Services Specialist and Software Development student building full-stack
 - Exploratory Data Analysis
 
 ## Project links
+- [SortView amh-analytics-dashboard](https://github.com/richardrhanly-us/amh-analytics-dashboard)
 - [poker-night-tracker](https://github.com/richardrhanly-us/poker-night-tracker)
 - [nba-player-performance-prediction](https://github.com/richardrhanly-us/NBA_Player_Performance_Data_Pipeline)
 - [melbourne-housing-price-prediction](https://github.com/richardrhanly-us/melbourne-housing-price-prediction)
@@ -38,6 +39,33 @@ Digital Services Specialist and Software Development student building full-stack
 ---
 
 ## Featured Projects
+
+### SortView AMH Analytics Dashboard (Full Stack Data Pipeline + Dashboard)
+
+Full-stack analytics platform for ingesting, storing, and visualizing Automated Materials Handler activity for a multi-branch library system.
+
+Built with Python, FastAPI, Streamlit, PostgreSQL/Neon, and a Windows-side AMH agent that processes real sorter log data.
+
+Key features:
+- Windows AMH agent that reads local Tech Logic UltraSort and TLC log files
+- Incremental data pipeline for check-ins, rejects, ACS events, and pipeline status
+- FastAPI backend for authenticated uploads from branch machines
+- PostgreSQL/Neon database used as the system-of-record
+- Streamlit dashboard for live operational metrics, reject analysis, transit tracking, and alerts
+- Multi-tenant architecture designed for customer, branch, and agent-token management
+- Alembic migration tracking for database schema changes
+
+<p align="center">
+  <img src="images/sortview-dashboard.png" width="1000"/>
+</p>
+
+Repository  
+[SortView amh-analytics-dashboard](https://github.com/richardrhanly-us/amh-analytics-dashboard)
+
+Live App  
+[SortView](https://sortview.streamlit.app/)
+
+---
 
 ### Poker Night Tracker (Full Stack Web App)
 
