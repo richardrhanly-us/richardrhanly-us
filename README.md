@@ -38,7 +38,7 @@ SortView demonstrates end-to-end system design: data ingestion, API development,
 
 **Python · REST APIs · Machine Learning · Pandas · Streamlit · Google Sheets API**
 
-[Live Application](https://edgeanalysisapp.streamlit.app/) · [Source Code](https://github.com/richardrhanly-us/NBA_Player_Performance_Data_Pipeline)
+[Live Application](https://edgeanalyticsnba.streamlit.app/) · [Source Code](https://github.com/richardrhanly-us/NBA_Player_Performance_Data_Pipeline)
 
 A sports analytics application that gathers NBA and sportsbook data, evaluates player-performance trends, generates model-based predictions, and presents results through an interactive web interface.
 
