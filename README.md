@@ -16,7 +16,7 @@ I am especially interested in software engineering, systems programming, backend
 
 **Python · FastAPI · PostgreSQL · Streamlit · Alembic · Data Pipelines**
 
-[Live Application](https://sortview.streamlit.app/) · [GitHub Profile](https://github.com/richardrhanly-us)
+[Live Application](https://sortview.streamlit.app/) · [GitHub Profile](https://github.com/richardrhanly-us/amh-analytics-dashboard)
 
 SortView is a multi-part analytics system for Automated Materials Handler activity in a public-library environment. It collects machine-generated log data, stores structured records in PostgreSQL, and presents operational dashboards, reports, transit analysis, and troubleshooting information.
 
