@@ -103,7 +103,7 @@ A retrieval-augmented document assistant that processes uploaded PDFs, stores ve
 
 **JavaScript · Google Apps Script · Google Sheets · Google Drive API · HTML/CSS**
 
-[Live Application](https://script.google.com/macros/s/AKfycbyx76atANNkWPlOzC8SUJvLaeU9zpWs5G_IgWBXxyXLaDRQpCCMjAubccVFyp--DNJWfw/exec)) · [Source Code](https://github.com/richardrhanly-us/poker-night-tracker)
+[Live Application](https://script.google.com/macros/s/AKfycbyx76atANNkWPlOzC8SUJvLaeU9zpWs5G_IgWBXxyXLaDRQpCCMjAubccVFyp--DNJWfw/exec) · [Source Code](https://github.com/richardrhanly-us/poker-night-tracker)
 
 A full-stack application for recording poker sessions, calculating player statistics, displaying leaderboards and dashboards, tracking profit over time, and linking scanned session records stored in Google Drive.
 
