@@ -6,7 +6,7 @@ I am a Software Development student and Digital Services Specialist who builds p
 
 I am especially interested in backend engineering, systems programming, data applications, infrastructure, testing, and technical roles where reliability and clear documentation matter.
 
-[Portfolio](https://portfolio-omega-eight-bdx91q637h.vercel.app/)
+[Portfolio](https://portfolio-omega-eight-bdx91q637h.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/richardhanly/) ·
 [GitHub](https://github.com/richardrhanly-us) ·
 [Email](mailto:richardrhanly@gmail.com)
