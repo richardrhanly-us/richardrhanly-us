@@ -130,7 +130,8 @@ That experience influences the way I approach software development:
 - Build tools that are understandable to technical and nontechnical users.
 - Document systems so they can be maintained by someone else.
 
-I am completing a **Bachelor of Applied Science in Software Development at Austin Community College**, with graduation projected for August 2026.
+## Education
+**Bachelor of Applied Science in Software Development at Austin Community College**
 
 ---
 
